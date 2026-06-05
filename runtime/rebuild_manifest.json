@@ -1,3 +1,16 @@
 {
-  "sources": []
+  "sources": [
+    {
+      "path": "/home/zutfen/code/cca-repo",
+      "mode": "projects"
+    },
+    {
+      "path": "/home/zutfen/code/hermes-memory-layer",
+      "mode": "projects"
+    },
+    {
+      "path": "/home/zutfen/code/mempalace",
+      "mode": "projects"
+    }
+  ]
 }
