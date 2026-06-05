@@ -76,6 +76,9 @@ mempalace wake-up
 For Claude Code, Gemini CLI, MCP-compatible tools, and local models, see
 [mempalaceofficial.com/guide/getting-started](https://mempalaceofficial.com/guide/getting-started.html).
 
+For repo-driven derived-runtime rebuilds, see
+[`docs/runtime-rebuild.md`](docs/runtime-rebuild.md).
+
 ---
 
 ## Benchmarks
